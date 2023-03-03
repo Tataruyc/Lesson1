@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ButtonClicker</string>
+    <string name="WhoIAm">Who I am?</string>
+    <string name="ItsNotMe">Its not me!</string>
+    <string name="no_user_input">ОК</string>
+    <string name="Student">Студент</string>
+<string name="itsNotMy">Это сделал не я!</string>
+</resources>
